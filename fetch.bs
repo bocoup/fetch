@@ -2737,9 +2737,7 @@ with a <i>CORS flag</i> and <i>recursive flag</i>, run these steps:
  for <var>response</var>.
 </ol>
 
-<!-- Prior to May 2017, this algorithm was named "basic fetch." The
-     corresponding ID is maintained in order to preserve the functionality of
-     external references. -->
+<!-- Prior to May 2017, this algorithm was named "basic fetch." -->
 <h3 id=scheme-fetch oldids=basic-fetch>Scheme fetch</h3>
 
 <p>To perform a <dfn id=concept-scheme-fetch oldids=concept-basic-fetch>scheme fetch</dfn> using
